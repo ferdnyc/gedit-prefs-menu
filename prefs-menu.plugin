@@ -1,0 +1,11 @@
+[Plugin]
+Loader=python3
+Module=prefs-menu
+IAge=3
+Name=Preferences in Menu
+Description=Restore Preferences option to Edit menu
+Authors=FeRD (Frank Dana) <ferdnyc@gmail.com>
+Copyright=Copyright © 2013 FeRD (Frank Dana)
+Website=
+Version=1.0
+# Based on example code by Micah Carrick <micah@quixotix.com>
